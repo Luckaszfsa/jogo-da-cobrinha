@@ -1,0 +1,40 @@
+body{
+    height: 95vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: rgb(148, 36, 201);
+    background-image: url(https://cdn.gamedevmarket.net/wp-content/uploads/20191203164457/b12e43df8bc81a989cf8b296c64fe362.jpg);
+}
+#area-total{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#titulo{
+    text-align: center;
+}
+
+#menu-esquerdo{
+    height:65vh;
+    padding: 10px 10px 10px 10px;
+    float:left;
+    text-align: center;
+    background-color: rgb(231, 64, 42);
+    color:black
+
+}
+
+input{
+    text-align: center;
+    background-color: rgb(235, 255, 235);
+    border: 0;
+    color:rgb(18, 20, 20);
+}
+
+#jogo {
+    width:95;
+    float:left;
+}
